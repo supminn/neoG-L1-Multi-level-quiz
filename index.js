@@ -1,3 +1,5 @@
+npm install chalk;
+npm install readlineSync;
 // create a readline-sync to read input
 var readlineSync = require("readline-sync");
 var chalk = require("chalk");
